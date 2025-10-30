@@ -1,0 +1,27 @@
+input {
+  width: none;
+  height: none;
+  padding: none;
+  /* background-color: #403f46; */
+}
+
+body {
+  /* background-color: #18181b; */
+}
+.calc {
+  display: none;
+  flex-direction: none;
+  /* background-color: #262626; */
+  padding: none;
+  gap: none;
+}
+
+button {
+  /* background-color: #17a34c;
+  height: 44px; */
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 32px;
+}
